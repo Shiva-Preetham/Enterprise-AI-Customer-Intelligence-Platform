@@ -1,7 +1,6 @@
 # Enterprise AI Customer Intelligence Platform
 
-### AI-Driven Churn Prediction, Explainability & Decision Supporteal-time customer behavior analysis, predictive intelligence, and agentic AI-driven insights.
-
+### AI-Driven Churn Prediction, Explainability & Decision Support
 ---
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Latest-green)
