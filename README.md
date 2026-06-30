@@ -1,8 +1,13 @@
 # Enterprise AI Customer Intelligence Platform
 
-> An enterprise-grade AI-powered platform for real-time customer behavior analysis, predictive intelligence, and agentic AI-driven insights.
+### AI-Driven Churn Prediction, Explainability & Decision Supporteal-time customer behavior analysis, predictive intelligence, and agentic AI-driven insights.
 
 ---
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-Latest-green)
+![React](https://img.shields.io/badge/React-18-blue)
+![Docker](https://img.shields.io/badge/Docker-Ready-blue)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## Project Overview
 
